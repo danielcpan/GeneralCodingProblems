@@ -1,0 +1,1 @@
+const isInteger = x => !isNaN(x / 1) && x/1 === parseInt(x.toFixed(0))
